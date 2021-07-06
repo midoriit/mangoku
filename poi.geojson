@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.536825,
+                    35.505723
+                ]
+            },
+            "properties": {
+                "NAME": "神奈川県立四季の森公園",
+                "ADDRESS": "神奈川県横浜市緑区寺山町"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.523237,
+                    35.501837
+                ]
+            },
+            "properties": {
+                "NAME": "里山ガーデン",
+                "ADDRESS": "神奈川県横浜市旭区上白根町"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.527298,
+                    35.493984
+                ]
+            },
+            "properties": {
+                "NAME": "よこはま動物園ズーラシア",
+                "ADDRESS": "神奈川県横浜市旭区上白根町"
+            }
+        }
+    ]
+}
