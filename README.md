@@ -1,18 +1,7 @@
-# SimplePoiMap
-GeoJSONファイルのPOIを表示する簡単なマップ
+# 萬石以上分限帳
+『吹塵録』「萬石以上分限帳」による、幕末における一万石以上の藩とその石高をマップにしました。
 
-GitHub Pagesによる表示は [こちら](https://midoriit.github.io/SimplePoiMap/)
-
-## 使用法
-
-1. このリポジトリをForkする
-2. index.htmlファイルを適宜書き換える
-3. poi.geojsonを表示したいPOIのデータで置き換える
-4. GitHub Pagesを設定して公開する
-
-## 利用例
-
-* [地域の石造物資料目録](https://midoriit.github.io/booklist/)
+GitHub Pagesによる表示は [こちら](https://midoriit.github.io/mangoku/)
 
 ## OSSライセンス
 

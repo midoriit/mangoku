@@ -12,13 +12,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.536825,
-                    35.505723
+                    140.47722,
+                    36.37539
                 ]
             },
             "properties": {
-                "NAME": "神奈川県立四季の森公園",
-                "ADDRESS": "神奈川県横浜市緑区寺山町"
+                "藩": "水戸藩",
+                "藩庁所在地": "茨城県水戸市三の丸",
+                "石高": 350000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/水戸藩"
             }
         },
         {
@@ -26,13 +29,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.523237,
-                    35.501837
+                    135.17177,
+                    34.22906
                 ]
             },
             "properties": {
-                "NAME": "里山ガーデン",
-                "ADDRESS": "神奈川県横浜市旭区上白根町"
+                "藩": "紀州藩",
+                "藩庁所在地": "和歌山県和歌山市一番丁",
+                "石高": 555000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/紀州藩"
             }
         },
         {
@@ -40,13 +46,4317 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.527298,
-                    35.493984
+                    136.899,
+                    35.18548
                 ]
             },
             "properties": {
-                "NAME": "よこはま動物園ズーラシア",
-                "ADDRESS": "神奈川県横浜市旭区上白根町"
+                "藩": "尾張藩",
+                "藩庁所在地": "愛知県名古屋市中区本丸",
+                "石高": 619500,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/尾張藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.25237,
+                    35.27692
+                ]
+            },
+            "properties": {
+                "藩": "彦根藩",
+                "藩庁所在地": "滋賀県彦根市金亀町",
+                "石高": 200000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/彦根藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.80983,
+                    37.5438
+                ]
+            },
+            "properties": {
+                "藩": "与板藩",
+                "藩庁所在地": "新潟県長岡市与板町与板",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/与板藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.71841,
+                    34.9063
+                ]
+            },
+            "properties": {
+                "藩": "淀藩",
+                "藩庁所在地": "京都府京都市伏見区淀本町",
+                "石高": 102000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/淀藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.85643,
+                    34.98469
+                ]
+            },
+            "properties": {
+                "藩": "館山藩",
+                "藩庁所在地": "千葉県館山市館山",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/館山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.80482,
+                    33.12556
+                ]
+            },
+            "properties": {
+                "藩": "臼杵藩",
+                "藩庁所在地": "大分県臼杵市臼杵",
+                "石高": 50060,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/臼杵藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.4516,
+                    34.85615
+                ]
+            },
+            "properties": {
+                "藩": "伊勢亀山藩",
+                "藩庁所在地": "三重県亀山市本丸町",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/伊勢亀山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.97809,
+                    36.31158
+                ]
+            },
+            "properties": {
+                "藩": "下館藩",
+                "藩庁所在地": "茨城県筑西市甲",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/下館藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.72655,
+                    34.71084
+                ]
+            },
+            "properties": {
+                "藩": "浜松藩",
+                "藩庁所在地": "静岡県浜松市中区元城町",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/浜松藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.96173,
+                    36.18668
+                ]
+            },
+            "properties": {
+                "藩": "下妻藩",
+                "藩庁所在地": "茨城県下妻市下妻甲",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/下妻藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.35477,
+                    35.87891
+                ]
+            },
+            "properties": {
+                "藩": "高岡藩",
+                "藩庁所在地": "千葉県成田市高岡",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.61794,
+                    34.8017
+                ]
+            },
+            "properties": {
+                "藩": "備中松山藩",
+                "藩庁所在地": "岡山県高梁市内山下",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/備中松山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.46889,
+                    37.75095
+                ]
+            },
+            "properties": {
+                "藩": "福島藩",
+                "藩庁所在地": "福島県福島市杉妻町",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/福島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.89603,
+                    36.32949
+                ]
+            },
+            "properties": {
+                "藩": "安中藩",
+                "藩庁所在地": "群馬県安中市安中三丁目",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/安中藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8504,
+                    34.6466
+                ]
+            },
+            "properties": {
+                "藩": "庭瀬藩",
+                "藩庁所在地": "岡山県岡山市北区庭瀬",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/庭瀬藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.35742,
+                    31.62466
+                ]
+            },
+            "properties": {
+                "藩": "飫肥藩",
+                "藩庁所在地": "宮崎県日南市飫肥",
+                "石高": 51080,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/飫肥藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.70502,
+                    34.65131
+                ]
+            },
+            "properties": {
+                "藩": "岡田藩",
+                "藩庁所在地": "岡山県倉敷市真備町岡田",
+                "石高": 10343,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/137",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岡田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8394,
+                    34.48714
+                ]
+            },
+            "properties": {
+                "藩": "鳥羽藩",
+                "藩庁所在地": "三重県鳥羽市鳥羽",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/鳥羽藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.30122,
+                    35.07848
+                ]
+            },
+            "properties": {
+                "藩": "山上藩",
+                "藩庁所在地": "滋賀県東近江市山上町",
+                "石高": 13043,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/山上藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.08806,
+                    39.49128
+                ]
+            },
+            "properties": {
+                "藩": "亀田藩",
+                "藩庁所在地": "秋田県由利本荘市岩城下蛇田",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/亀田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.2744,
+                    35.00847
+                ]
+            },
+            "properties": {
+                "藩": "仁正寺藩",
+                "藩庁所在地": "滋賀県蒲生郡日野町大字西大路",
+                "石高": 17004,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/仁正寺藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.04816,
+                    39.38548
+                ]
+            },
+            "properties": {
+                "藩": "本荘藩",
+                "藩庁所在地": "秋田県由利本荘市尾崎",
+                "石高": 20021,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/本荘藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.93697,
+                    35.37569
+                ]
+            },
+            "properties": {
+                "藩": "請西藩",
+                "藩庁所在地": "千葉県木更津市請西",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/請西藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.43739,
+                    37.59592
+                ]
+            },
+            "properties": {
+                "藩": "二本松藩",
+                "藩庁所在地": "福島県二本松市郭内",
+                "石高": 100700,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/二本松藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.00323,
+                    34.93645
+                ]
+            },
+            "properties": {
+                "藩": "三草藩",
+                "藩庁所在地": "兵庫県加東市上三草",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三草藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.99187,
+                    34.68934
+                ]
+            },
+            "properties": {
+                "藩": "横須賀藩",
+                "藩庁所在地": "静岡県掛川市西大渕",
+                "石高": 35000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/横須賀藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.70616,
+                    32.80472
+                ]
+            },
+            "properties": {
+                "藩": "熊本藩",
+                "藩庁所在地": "熊本県熊本市中央区本丸",
+                "石高": 540000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/熊本藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.66289,
+                    32.68317
+                ]
+            },
+            "properties": {
+                "藩": "宇土藩",
+                "藩庁所在地": "熊本県宇土市新小路町",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/宇土藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.06508,
+                    36.02548
+                ]
+            },
+            "properties": {
+                "藩": "谷田部藩",
+                "藩庁所在地": "茨城県つくば市谷田部",
+                "石高": 16039,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/谷田部藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2191,
+                    35.72234
+                ]
+            },
+            "properties": {
+                "藩": "佐倉藩",
+                "藩庁所在地": "千葉県佐倉市城内町",
+                "石高": 110000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/佐倉藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57812,
+                    36.29437
+                ]
+            },
+            "properties": {
+                "藩": "佐野藩",
+                "藩庁所在地": "栃木県佐野市植下町",
+                "石高": 16000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/佐野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.29262,
+                    35.38233
+                ]
+            },
+            "properties": {
+                "藩": "近江宮川藩",
+                "藩庁所在地": "滋賀県長浜市宮司町",
+                "石高": 13000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/近江宮川藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.89284,
+                    34.99379
+                ]
+            },
+            "properties": {
+                "藩": "膳所藩",
+                "藩庁所在地": "滋賀県大津市本丸町",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/138",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/膳所藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.15727,
+                    34.95686
+                ]
+            },
+            "properties": {
+                "藩": "岡崎藩",
+                "藩庁所在地": "愛知県岡崎市康生町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岡崎藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.27458,
+                    34.87103
+                ]
+            },
+            "properties": {
+                "藩": "田中藩",
+                "藩庁所在地": "静岡県藤枝市田中",
+                "石高": 40000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/田中藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.85728,
+                    36.95321
+                ]
+            },
+            "properties": {
+                "藩": "泉藩",
+                "藩庁所在地": "福島県いわき市泉町",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/泉藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.35829,
+                    36.8503
+                ]
+            },
+            "properties": {
+                "藩": "飯山藩",
+                "藩庁所在地": "長野県飯山市飯山",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/飯山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.58334,
+                    34.88082
+                ]
+            },
+            "properties": {
+                "藩": "神戸藩",
+                "藩庁所在地": "三重県鈴鹿市神戸",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/神戸藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.53946,
+                    35.00403
+                ]
+            },
+            "properties": {
+                "藩": "山崎藩",
+                "藩庁所在地": "兵庫県宍粟市山崎町鹿沢",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/山崎藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.17575,
+                    37.69565
+                ]
+            },
+            "properties": {
+                "藩": "村松藩",
+                "藩庁所在地": "新潟県五泉市村松乙",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/村松藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.82642,
+                    35.51394
+                ]
+            },
+            "properties": {
+                "藩": "信濃飯田藩",
+                "藩庁所在地": "長野県飯田市追手町",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/信濃飯田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.30896,
+                    36.65745
+                ]
+            },
+            "properties": {
+                "藩": "須坂藩",
+                "藩庁所在地": "長野県須坂市大字須坂",
+                "石高": 10053,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/須坂藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.62396,
+                    37.47733
+                ]
+            },
+            "properties": {
+                "藩": "椎谷藩",
+                "藩庁所在地": "新潟県柏崎市椎谷",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/椎谷藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.85306,
+                    35.30943
+                ]
+            },
+            "properties": {
+                "藩": "飯野藩",
+                "藩庁所在地": "千葉県富津市下飯野",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/飯野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.79465,
+                    35.49645
+                ]
+            },
+            "properties": {
+                "藩": "高富藩",
+                "藩庁所在地": "岐阜県山県市高富",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高富藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55659,
+                    34.5032
+                ]
+            },
+            "properties": {
+                "藩": "狭山藩",
+                "藩庁所在地": "大阪府大阪狭山市狭山",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/狭山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.50674,
+                    34.71628
+                ]
+            },
+            "properties": {
+                "藩": "津藩",
+                "藩庁所在地": "三重県津市丸之内",
+                "石高": 323950,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.46262,
+                    34.6761
+                ]
+            },
+            "properties": {
+                "藩": "久居藩",
+                "藩庁所在地": "三重県津市久居西鷹跡町",
+                "石高": 53000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/久居藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.61681,
+                    35.36074
+                ]
+            },
+            "properties": {
+                "藩": "大垣藩",
+                "藩庁所在地": "岐阜県大垣市郭町二丁目",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大垣藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.88591,
+                    36.55449
+                ]
+            },
+            "properties": {
+                "藩": "宇都宮藩",
+                "藩庁所在地": "栃木県宇都宮市本丸町",
+                "石高": 77850,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/宇都宮藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.44899,
+                    36.33762
+                ]
+            },
+            "properties": {
+                "藩": "足利藩",
+                "藩庁所在地": "栃木県足利市雪輪町",
+                "石高": 11000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/139",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/足利藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.1002,
+                    34.62752
+                ]
+            },
+            "properties": {
+                "藩": "大垣新田藩",
+                "藩庁所在地": "愛知県田原市福江町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大垣新田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70322,
+                    36.19593
+                ]
+            },
+            "properties": {
+                "藩": "古河藩",
+                "藩庁所在地": "茨城県古河市中央町",
+                "石高": 80000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/古河藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.48512,
+                    35.98637
+                ]
+            },
+            "properties": {
+                "藩": "大野藩",
+                "藩庁所在地": "福井県大野市城町",
+                "石高": 40000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.98581,
+                    34.98841
+                ]
+            },
+            "properties": {
+                "藩": "刈谷藩",
+                "藩庁所在地": "愛知県刈谷市城町",
+                "石高": 23000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/刈谷藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.29247,
+                    38.76764
+                ]
+            },
+            "properties": {
+                "藩": "新庄藩",
+                "藩庁所在地": "山形県新庄市堀端町",
+                "石高": 68200,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/新庄藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0419,
+                    36.6478
+                ]
+            },
+            "properties": {
+                "藩": "沼田藩",
+                "藩庁所在地": "群馬県沼田市西倉内町",
+                "石高": 35000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/沼田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79753,
+                    36.42918
+                ]
+            },
+            "properties": {
+                "藩": "壬生藩",
+                "藩庁所在地": "栃木県下都賀郡壬生町本丸一丁目",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/壬生藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.47107,
+                    35.524
+                ]
+            },
+            "properties": {
+                "藩": "苗木藩",
+                "藩庁所在地": "岐阜県中津川市苗木",
+                "石高": 10021,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/苗木藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.87138,
+                    33.88237
+                ]
+            },
+            "properties": {
+                "藩": "小倉藩",
+                "藩庁所在地": "福岡県北九州市小倉北区城内",
+                "石高": 150000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小倉藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.97615,
+                    33.4533
+                ]
+            },
+            "properties": {
+                "藩": "唐津藩",
+                "藩庁所在地": "佐賀県唐津市東城内",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/唐津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.50334,
+                    36.0596
+                ]
+            },
+            "properties": {
+                "藩": "越前勝山藩",
+                "藩庁所在地": "福井県勝山市元町",
+                "石高": 22770,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/越前勝山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.59361,
+                    34.98723
+                ]
+            },
+            "properties": {
+                "藩": "安志藩",
+                "藩庁所在地": "兵庫県姫路市安富町安志",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/安志藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.15569,
+                    35.25124
+                ]
+            },
+            "properties": {
+                "藩": "小田原藩",
+                "藩庁所在地": "神奈川県小田原市城内",
+                "石高": 113129,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小田原藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.14632,
+                    36.66143
+                ]
+            },
+            "properties": {
+                "藩": "烏山藩",
+                "藩庁所在地": "栃木県那須烏山市城山",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/烏山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3342,
+                    35.48111
+                ]
+            },
+            "properties": {
+                "藩": "荻野山中藩",
+                "藩庁所在地": "神奈川県厚木市下荻野",
+                "石高": 13000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/荻野山中藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.18884,
+                    33.59924
+                ]
+            },
+            "properties": {
+                "藩": "中津藩",
+                "藩庁所在地": "大分県中津市",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/中津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37074,
+                    34.45901
+                ]
+            },
+            "properties": {
+                "藩": "岸和田藩",
+                "藩庁所在地": "大阪府岸和田市岸城町",
+                "石高": 53000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岸和田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0168,
+                    34.77548
+                ]
+            },
+            "properties": {
+                "藩": "掛川藩",
+                "藩庁所在地": "静岡県掛川市掛川",
+                "石高": 50037,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/140",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/掛川藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.96194,
+                    32.89899
+                ]
+            },
+            "properties": {
+                "藩": "大村藩",
+                "藩庁所在地": "長崎県大村市玖島",
+                "石高": 27970,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大村藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7104,
+                    35.9514
+                ]
+            },
+            "properties": {
+                "藩": "岩槻藩",
+                "藩庁所在地": "埼玉県さいたま市岩槻区太田三丁目",
+                "石高": 23000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岩槻藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.1931,
+                    34.93959
+                ]
+            },
+            "properties": {
+                "藩": "西大平藩",
+                "藩庁所在地": "愛知県岡崎市大平町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/西大平藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36948,
+                    38.35654
+                ]
+            },
+            "properties": {
+                "藩": "天童藩",
+                "藩庁所在地": "山形県天童市田鶴町",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/天童藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.07146,
+                    35.13374
+                ]
+            },
+            "properties": {
+                "藩": "丹波柏原藩",
+                "藩庁所在地": "兵庫県丹波市柏原町柏原",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/丹波柏原藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.83937,
+                    34.53424
+                ]
+            },
+            "properties": {
+                "藩": "芝村藩",
+                "藩庁所在地": "奈良県桜井市芝",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/芝村藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.84245,
+                    34.55904
+                ]
+            },
+            "properties": {
+                "藩": "柳本藩",
+                "藩庁所在地": "奈良県天理市柳本町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/柳本藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.12851,
+                    36.87061
+                ]
+            },
+            "properties": {
+                "藩": "黒羽藩",
+                "藩庁所在地": "栃木県大田原市前田",
+                "石高": 18000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/黒羽藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.03085,
+                    36.86584
+                ]
+            },
+            "properties": {
+                "藩": "大田原藩",
+                "藩庁所在地": "栃木県大田原市城山",
+                "石高": 11416,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大田原藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.54407,
+                    34.86729
+                ]
+            },
+            "properties": {
+                "藩": "龍野藩",
+                "藩庁所在地": "兵庫県たつの市龍野町上霞城",
+                "石高": 51089,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/龍野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.01086,
+                    35.29684
+                ]
+            },
+            "properties": {
+                "藩": "大溝藩",
+                "藩庁所在地": "滋賀県高島市勝野",
+                "石高": 20001,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大溝藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43968,
+                    34.49182
+                ]
+            },
+            "properties": {
+                "藩": "伯太藩",
+                "藩庁所在地": "大阪府和泉市伯太町",
+                "石高": 13520,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/伯太藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.54442,
+                    33.50578
+                ]
+            },
+            "properties": {
+                "藩": "大洲藩",
+                "藩庁所在地": "愛媛県大洲市大洲",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大洲藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.19214,
+                    34.97905
+                ]
+            },
+            "properties": {
+                "藩": "水口藩",
+                "藩庁所在地": "滋賀県甲賀市水口町水口",
+                "石高": 25000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/水口藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.59895,
+                    33.53703
+                ]
+            },
+            "properties": {
+                "藩": "新谷藩",
+                "藩庁所在地": "愛媛県大洲市新谷町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/新谷藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.77368,
+                    34.47006
+                ]
+            },
+            "properties": {
+                "藩": "津和野藩",
+                "藩庁所在地": "島根県鹿足郡津和野町後田",
+                "石高": 40000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/津和野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37791,
+                    35.3722
+                ]
+            },
+            "properties": {
+                "藩": "一宮藩",
+                "藩庁所在地": "千葉県長生郡一宮町一宮",
+                "石高": 13000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/一宮藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.75604,
+                    34.62766
+                ]
+            },
+            "properties": {
+                "藩": "小泉藩",
+                "藩庁所在地": "奈良県大和郡山市小泉町",
+                "石高": 11129,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/141",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小泉藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.61877,
+                    35.325
+                ]
+            },
+            "properties": {
+                "藩": "六浦藩",
+                "藩庁所在地": "神奈川県横浜市金沢区六浦",
+                "石高": 12000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/六浦藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37941,
+                    38.45835
+                ]
+            },
+            "properties": {
+                "藩": "長瀞藩",
+                "藩庁所在地": "山形県東根市大字長瀞",
+                "石高": 11000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/長瀞藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.40181,
+                    33.16123
+                ]
+            },
+            "properties": {
+                "藩": "柳河藩",
+                "藩庁所在地": "福岡県柳川市本城町",
+                "石高": 109647,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/柳河藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.60832,
+                    37.72058
+                ]
+            },
+            "properties": {
+                "藩": "下手渡藩",
+                "藩庁所在地": "福島県伊達市月舘町下手渡",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/下手渡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.56531,
+                    33.21996
+                ]
+            },
+            "properties": {
+                "藩": "宇和島藩",
+                "藩庁所在地": "愛媛県宇和島市丸之内",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/宇和島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.54527,
+                    33.27343
+                ]
+            },
+            "properties": {
+                "藩": "伊予吉田藩",
+                "藩庁所在地": "愛媛県宇和島市吉田町立間尻",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/伊予吉田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.13095,
+                    38.92677
+                ]
+            },
+            "properties": {
+                "藩": "一関藩",
+                "藩庁所在地": "岩手県一関市城内",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/一関藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.32455,
+                    35.29761
+                ]
+            },
+            "properties": {
+                "藩": "山家藩",
+                "藩庁所在地": "京都府綾部市広瀬町",
+                "石高": 10082,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/山家藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55644,
+                    34.55831
+                ]
+            },
+            "properties": {
+                "藩": "丹南藩",
+                "藩庁所在地": "大阪府松原市丹南三丁目",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/丹南藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.20461,
+                    34.68507
+                ]
+            },
+            "properties": {
+                "藩": "相良藩",
+                "藩庁所在地": "静岡県牧之原市相良",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/相良藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.58063,
+                    34.90325
+                ]
+            },
+            "properties": {
+                "藩": "林田藩",
+                "藩庁所在地": "兵庫県姫路市林田町林田",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/林田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.28661,
+                    34.21566
+                ]
+            },
+            "properties": {
+                "藩": "対馬府中藩",
+                "藩庁所在地": "長崎県対馬市厳原町桟原",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/対馬府中藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.92406,
+                    37.80194
+                ]
+            },
+            "properties": {
+                "藩": "相馬中村藩",
+                "藩庁所在地": "福島県相馬市中村",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/相馬中村藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.46846,
+                    40.60476
+                ]
+            },
+            "properties": {
+                "藩": "弘前藩",
+                "藩庁所在地": "青森県弘前市下白銀町",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/弘前藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.59178,
+                    40.64262
+                ]
+            },
+            "properties": {
+                "藩": "黒石藩",
+                "藩庁所在地": "青森県黒石市内町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/黒石藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19904,
+                    36.08323
+                ]
+            },
+            "properties": {
+                "藩": "土浦藩",
+                "藩庁所在地": "茨城県土浦市中央一丁目",
+                "石高": 95000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/土浦藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.15248,
+                    39.70349
+                ]
+            },
+            "properties": {
+                "藩": "盛岡藩",
+                "藩庁所在地": "岩手県盛岡市内丸",
+                "石高": 200000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/盛岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.48819,
+                    40.51359
+                ]
+            },
+            "properties": {
+                "藩": "八戸藩",
+                "藩庁所在地": "青森県八戸市内丸",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/142",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/八戸藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.20053,
+                    33.2933
+                ]
+            },
+            "properties": {
+                "藩": "小城藩",
+                "藩庁所在地": "佐賀県小城市小城町",
+                "石高": 73252,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小城藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.35124,
+                    33.24824
+                ]
+            },
+            "properties": {
+                "藩": "蓮池藩",
+                "藩庁所在地": "佐賀県佐賀市蓮池町大字蓮池",
+                "石高": 52625,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/蓮池藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.09294,
+                    33.10699
+                ]
+            },
+            "properties": {
+                "藩": "鹿島藩",
+                "藩庁所在地": "佐賀県鹿島市高津原",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/鹿島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.39819,
+                    32.96812
+                ]
+            },
+            "properties": {
+                "藩": "岡藩",
+                "藩庁所在地": "大分県竹田市大字竹田",
+                "石高": 70440,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.66078,
+                    32.58203
+                ]
+            },
+            "properties": {
+                "藩": "延岡藩",
+                "藩庁所在地": "宮崎県延岡市本小路",
+                "石高": 70000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/延岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.48642,
+                    38.22082
+                ]
+            },
+            "properties": {
+                "藩": "村上藩",
+                "藩庁所在地": "新潟県村上市本町",
+                "石高": 50090,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/村上藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.07761,
+                    35.82804
+                ]
+            },
+            "properties": {
+                "藩": "高遠藩",
+                "藩庁所在地": "長野県伊那市高遠町東高遠",
+                "石高": 33000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高遠藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.15236,
+                    35.08724
+                ]
+            },
+            "properties": {
+                "藩": "挙母藩",
+                "藩庁所在地": "愛知県豊田市小坂本町",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/挙母藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.85689,
+                    36.99146
+                ]
+            },
+            "properties": {
+                "藩": "湯長谷藩",
+                "藩庁所在地": "福島県いわき市常磐下湯長谷町",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/湯長谷藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.46635,
+                    36.26618
+                ]
+            },
+            "properties": {
+                "藩": "岩村田藩",
+                "藩庁所在地": "長野県佐久市岩村田",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岩村田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62227,
+                    34.8424
+                ]
+            },
+            "properties": {
+                "藩": "高槻藩",
+                "藩庁所在地": "大阪府高槻市城内町",
+                "石高": 36000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高槻藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.76129,
+                    35.39977
+                ]
+            },
+            "properties": {
+                "藩": "加納藩",
+                "藩庁所在地": "岐阜県岐阜市加納丸之内",
+                "石高": 32000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/加納藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.72018,
+                    34.48742
+                ]
+            },
+            "properties": {
+                "藩": "大和新庄藩",
+                "藩庁所在地": "奈良県葛城市新庄",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大和新庄藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.10503,
+                    37.90895
+                ]
+            },
+            "properties": {
+                "藩": "米沢藩",
+                "藩庁所在地": "山形県米沢市丸の内",
+                "石高": 150000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/米沢藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.10503,
+                    37.90895
+                ]
+            },
+            "properties": {
+                "藩": "米沢新田藩",
+                "藩庁所在地": "山形県米沢市丸の内",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/米沢新田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.81525,
+                    34.435
+                ]
+            },
+            "properties": {
+                "藩": "高取藩",
+                "藩庁所在地": "奈良県高市郡高取町高取",
+                "石高": 25000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高取藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.61012,
+                    35.85562
+                ]
+            },
+            "properties": {
+                "藩": "小見川藩",
+                "藩庁所在地": "千葉県香取市小見川",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小見川藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.69632,
+                    33.46998
+                ]
+            },
+            "properties": {
+                "藩": "秋月藩",
+                "藩庁所在地": "福岡県朝倉市秋月野鳥",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/143",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/秋月藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.08472,
+                    35.29196
+                ]
+            },
+            "properties": {
+                "藩": "久留里藩",
+                "藩庁所在地": "千葉県君津市久留里",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/久留里藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.78448,
+                    36.09964
+                ]
+            },
+            "properties": {
+                "藩": "関宿藩",
+                "藩庁所在地": "千葉県野田市関宿三軒家",
+                "石高": 48000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/関宿藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22086,
+                    34.88598
+                ]
+            },
+            "properties": {
+                "藩": "三田藩",
+                "藩庁所在地": "兵庫県三田市屋敷町",
+                "石高": 36000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25569,
+                    35.30527
+                ]
+            },
+            "properties": {
+                "藩": "綾部藩",
+                "藩庁所在地": "京都府綾部市青野町",
+                "石高": 19500,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/綾部藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.12405,
+                    35.29796
+                ]
+            },
+            "properties": {
+                "藩": "福知山藩",
+                "藩庁所在地": "京都府福知山市内記",
+                "石高": 32000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/福知山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.15828,
+                    33.30222
+                ]
+            },
+            "properties": {
+                "藩": "森藩",
+                "藩庁所在地": "大分県玖珠郡玖珠町森",
+                "石高": 12500,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/森藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.13252,
+                    35.95725
+                ]
+            },
+            "properties": {
+                "藩": "牛久藩",
+                "藩庁所在地": "茨城県牛久市城中町",
+                "石高": 10017,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/牛久藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.95343,
+                    34.72792
+                ]
+            },
+            "properties": {
+                "藩": "柳生藩",
+                "藩庁所在地": "奈良県奈良市柳生町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/柳生藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.44038,
+                    38.07948
+                ]
+            },
+            "properties": {
+                "藩": "黒川藩",
+                "藩庁所在地": "新潟県胎内市黒川",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/黒川藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.36642,
+                    37.97272
+                ]
+            },
+            "properties": {
+                "藩": "三日市藩",
+                "藩庁所在地": "新潟県新発田市上館",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三日市藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.65976,
+                    36.56605
+                ]
+            },
+            "properties": {
+                "藩": "加賀藩",
+                "藩庁所在地": "石川県金沢市丸の内",
+                "石高": 1025000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/加賀藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.20789,
+                    36.69294
+                ]
+            },
+            "properties": {
+                "藩": "富山藩",
+                "藩庁所在地": "富山県富山市丸の内",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/富山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.30937,
+                    36.30822
+                ]
+            },
+            "properties": {
+                "藩": "大聖寺藩",
+                "藩庁所在地": "石川県加賀市大聖寺八間道",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大聖寺藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8797,
+                    36.25935
+                ]
+            },
+            "properties": {
+                "藩": "七日市藩",
+                "藩庁所在地": "群馬県富岡市七日市",
+                "石高": 10014,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/七日市藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.55296,
+                    31.59841
+                ]
+            },
+            "properties": {
+                "藩": "薩摩藩",
+                "藩庁所在地": "鹿児島県鹿児島市城山町",
+                "石高": 605000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/薩摩藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.85562,
+                    38.25326
+                ]
+            },
+            "properties": {
+                "藩": "仙台藩",
+                "藩庁所在地": "宮城県仙台市青葉区川内",
+                "石高": 620056,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/仙台藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.38139,
+                    33.58515
+                ]
+            },
+            "properties": {
+                "藩": "福岡藩",
+                "藩庁所在地": "福岡県福岡市中央区城内",
+                "石高": 473100,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/福岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.45758,
+                    34.39731
+                ]
+            },
+            "properties": {
+                "藩": "広島藩",
+                "藩庁所在地": "広島県広島市中区基町",
+                "石高": 426500,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/144",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/広島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.38538,
+                    34.41296
+                ]
+            },
+            "properties": {
+                "藩": "長州藩",
+                "藩庁所在地": "山口県萩市堀内",
+                "石高": 369411,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/長州藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2979,
+                    33.24545
+                ]
+            },
+            "properties": {
+                "藩": "佐賀藩",
+                "藩庁所在地": "佐賀県佐賀市城内",
+                "石高": 357036,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/佐賀藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.23853,
+                    35.5044
+                ]
+            },
+            "properties": {
+                "藩": "鳥取藩",
+                "藩庁所在地": "鳥取県鳥取市東町",
+                "石高": 320000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/鳥取藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.93361,
+                    34.66394
+                ]
+            },
+            "properties": {
+                "藩": "岡山藩",
+                "藩庁所在地": "岡山県岡山市北区丸の内二丁目",
+                "石高": 315200,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岡山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.22697,
+                    36.06563
+                ]
+            },
+            "properties": {
+                "藩": "福井藩",
+                "藩庁所在地": "福井県福井市大手",
+                "石高": 320000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/福井藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.86052,
+                    37.03745
+                ]
+            },
+            "properties": {
+                "藩": "糸魚川藩",
+                "藩庁所在地": "新潟県糸魚川市清崎",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/糸魚川藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.05319,
+                    35.47463
+                ]
+            },
+            "properties": {
+                "藩": "松江藩",
+                "藩庁所在地": "島根県松江市殿町",
+                "石高": 186000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/松江藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.17448,
+                    35.36593
+                ]
+            },
+            "properties": {
+                "藩": "広瀬藩",
+                "藩庁所在地": "島根県安来市広瀬町広瀬",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/広瀬藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.27066,
+                    35.35082
+                ]
+            },
+            "properties": {
+                "藩": "母里藩",
+                "藩庁所在地": "島根県安来市伯太町西母里",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/母里藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.05923,
+                    36.39005
+                ]
+            },
+            "properties": {
+                "藩": "前橋藩",
+                "藩庁所在地": "群馬県前橋市大手町",
+                "石高": 170000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/前橋藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0025,
+                    35.06237
+                ]
+            },
+            "properties": {
+                "藩": "津山藩",
+                "藩庁所在地": "岡山県津山市山下",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/津山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.99307,
+                    34.65193
+                ]
+            },
+            "properties": {
+                "藩": "明石藩",
+                "藩庁所在地": "兵庫県明石市明石公園",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/明石藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9305,
+                    37.4886
+                ]
+            },
+            "properties": {
+                "藩": "会津藩",
+                "藩庁所在地": "福島県会津若松市追手町",
+                "石高": 280000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/会津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.55771,
+                    34.07401
+                ]
+            },
+            "properties": {
+                "藩": "徳島藩",
+                "藩庁所在地": "徳島県徳島市徳島町",
+                "石高": 257000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/徳島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.52852,
+                    33.56128
+                ]
+            },
+            "properties": {
+                "藩": "土佐藩",
+                "藩庁所在地": "高知県高知市丸ノ内一丁目",
+                "石高": 202600,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/土佐藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7644,
+                    33.84537
+                ]
+            },
+            "properties": {
+                "藩": "伊予松山藩",
+                "藩庁所在地": "愛媛県松山市丸之内",
+                "石高": 150000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/伊予松山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69949,
+                    35.06398
+                ]
+            },
+            "properties": {
+                "藩": "桑名藩",
+                "藩庁所在地": "三重県桑名市吉之丸",
+                "石高": 110000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/145",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/桑名藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00639,
+                    34.06339
+                ]
+            },
+            "properties": {
+                "藩": "今治藩",
+                "藩庁所在地": "愛媛県今治市通町三丁目",
+                "石高": 35000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/今治藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.47115,
+                    35.73571
+                ]
+            },
+            "properties": {
+                "藩": "多胡藩",
+                "藩庁所在地": "千葉県香取郡多古町多古",
+                "石高": 12000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/多胡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.45653,
+                    36.13823
+                ]
+            },
+            "properties": {
+                "藩": "忍藩",
+                "藩庁所在地": "埼玉県行田市本丸",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/忍藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.92006,
+                    36.23212
+                ]
+            },
+            "properties": {
+                "藩": "小幡藩",
+                "藩庁所在地": "群馬県甘楽郡甘楽町小幡",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小幡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.07812,
+                    34.90107
+                ]
+            },
+            "properties": {
+                "藩": "浜田藩",
+                "藩庁所在地": "島根県浜田市殿町",
+                "石高": 61000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/浜田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.63527,
+                    35.22063
+                ]
+            },
+            "properties": {
+                "藩": "高須藩",
+                "藩庁所在地": "岐阜県海津市海津町高須",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高須藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.17735,
+                    33.92137
+                ]
+            },
+            "properties": {
+                "藩": "西条藩",
+                "藩庁所在地": "愛媛県西条市明屋敷",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/西条藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.98631,
+                    36.25755
+                ]
+            },
+            "properties": {
+                "藩": "吉井藩",
+                "藩庁所在地": "群馬県高崎市吉井町吉井",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/吉井藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.05266,
+                    34.3506
+                ]
+            },
+            "properties": {
+                "藩": "高松藩",
+                "藩庁所在地": "香川県高松市玉藻町",
+                "石高": 120000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高松藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.40332,
+                    37.3312
+                ]
+            },
+            "properties": {
+                "藩": "守山藩",
+                "藩庁所在地": "福島県郡山市田村町守山",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/守山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.28401,
+                    36.19432
+                ]
+            },
+            "properties": {
+                "藩": "常陸府中藩",
+                "藩庁所在地": "茨城県石岡市石岡",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/常陸府中藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.27072,
+                    36.35178
+                ]
+            },
+            "properties": {
+                "藩": "常陸宍戸藩",
+                "藩庁所在地": "茨城県笠間市平町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/常陸宍戸藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.19797,
+                    35.53669
+                ]
+            },
+            "properties": {
+                "藩": "宮津藩",
+                "藩庁所在地": "京都府宮津市鶴賀",
+                "石高": 70000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/宮津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.39444,
+                    34.76986
+                ]
+            },
+            "properties": {
+                "藩": "三河吉田藩",
+                "藩庁所在地": "愛知県豊橋市今橋町",
+                "石高": 70000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三河吉田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.22989,
+                    35.28654
+                ]
+            },
+            "properties": {
+                "藩": "大多喜藩",
+                "藩庁所在地": "千葉県夷隅郡大多喜町大多喜",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/大多喜藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0014,
+                    36.3249
+                ]
+            },
+            "properties": {
+                "藩": "高崎藩",
+                "藩庁所在地": "群馬県高崎市高松町",
+                "石高": 82000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高崎藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.36526,
+                    32.79194
+                ]
+            },
+            "properties": {
+                "藩": "島原藩",
+                "藩庁所在地": "長崎県島原市城内",
+                "石高": 65909,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/島原藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.97041,
+                    36.23853
+                ]
+            },
+            "properties": {
+                "藩": "松本藩",
+                "藩庁所在地": "長野県松本市丸の内",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/松本藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.0499,
+                    34.86663
+                ]
+            },
+            "properties": {
+                "藩": "西尾藩",
+                "藩庁所在地": "愛知県西尾市錦城町",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/西尾藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.60912,
+                    33.24109
+                ]
+            },
+            "properties": {
+                "藩": "府内藩",
+                "藩庁所在地": "大分県大分市荷揚町",
+                "石高": 21205,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/146",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/府内藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.20532,
+                    35.02642
+                ]
+            },
+            "properties": {
+                "藩": "奥殿藩",
+                "藩庁所在地": "愛知県岡崎市奥殿町",
+                "石高": 16000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/奥殿藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.44041,
+                    35.36644
+                ]
+            },
+            "properties": {
+                "藩": "岩村藩",
+                "藩庁所在地": "岐阜県恵那市岩村町",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岩村藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.24637,
+                    36.40424
+                ]
+            },
+            "properties": {
+                "藩": "上田藩",
+                "藩庁所在地": "長野県上田市二の丸",
+                "石高": 53000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/上田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.27501,
+                    38.15819
+                ]
+            },
+            "properties": {
+                "藩": "上山藩",
+                "藩庁所在地": "山形県上山市元城内",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/上山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57547,
+                    35.01359
+                ]
+            },
+            "properties": {
+                "藩": "丹波亀山藩",
+                "藩庁所在地": "京都府亀岡市荒塚町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/丹波亀山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51498,
+                    35.08481
+                ]
+            },
+            "properties": {
+                "藩": "小島藩",
+                "藩庁所在地": "静岡県静岡市清水区小島本町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.38527,
+                    37.02051
+                ]
+            },
+            "properties": {
+                "藩": "棚倉藩",
+                "藩庁所在地": "福島県東白川郡棚倉町棚倉",
+                "石高": 60442,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/棚倉藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41974,
+                    34.71407
+                ]
+            },
+            "properties": {
+                "藩": "尼崎藩",
+                "藩庁所在地": "兵庫県尼崎市南城内",
+                "石高": 40000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/尼崎藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.61984,
+                    33.4191
+                ]
+            },
+            "properties": {
+                "藩": "杵築藩",
+                "藩庁所在地": "大分県杵築市杵築",
+                "石高": 32000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/杵築藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.77728,
+                    34.65204
+                ]
+            },
+            "properties": {
+                "藩": "郡山藩",
+                "藩庁所在地": "奈良県大和郡山市城内町",
+                "石高": 151288,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/郡山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.26637,
+                    36.37795
+                ]
+            },
+            "properties": {
+                "藩": "笠間藩",
+                "藩庁所在地": "茨城県笠間市笠間",
+                "石高": 80000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/笠間藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.85226,
+                    37.44737
+                ]
+            },
+            "properties": {
+                "藩": "越後長岡藩",
+                "藩庁所在地": "新潟県長岡市大手通",
+                "石高": 74023,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/越後長岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.33096,
+                    35.44704
+                ]
+            },
+            "properties": {
+                "藩": "丹後田辺藩",
+                "藩庁所在地": "京都府舞鶴市南田辺",
+                "石高": 35000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/丹後田辺藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4167,
+                    36.32664
+                ]
+            },
+            "properties": {
+                "藩": "小諸藩",
+                "藩庁所在地": "長野県小諸市丁",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小諸藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.55731,
+                    33.35875
+                ]
+            },
+            "properties": {
+                "藩": "平戸藩",
+                "藩庁所在地": "長崎県平戸市岩の上町",
+                "石高": 61700,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/平戸藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.55731,
+                    33.35875
+                ]
+            },
+            "properties": {
+                "藩": "平戸新田藩",
+                "藩庁所在地": "長崎県平戸市岩の上町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/平戸新田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.18365,
+                    35.94337
+                ]
+            },
+            "properties": {
+                "藩": "鯖江藩",
+                "藩庁所在地": "福井県鯖江市屋形町",
+                "石高": 40000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/鯖江藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.10933,
+                    41.42749
+                ]
+            },
+            "properties": {
+                "藩": "松前藩",
+                "藩庁所在地": "北海道松前郡松前町松城",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/松前藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6955,
+                    35.09284
+                ]
+            },
+            "properties": {
+                "藩": "長島藩",
+                "藩庁所在地": "三重県桑名市長島町西外面",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/147",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/長島藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.739,
+                    34.68105
+                ]
+            },
+            "properties": {
+                "藩": "浅尾藩",
+                "藩庁所在地": "岡山県総社市門田",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/浅尾藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.47006,
+                    35.10571
+                ]
+            },
+            "properties": {
+                "藩": "園部藩",
+                "藩庁所在地": "京都府南丹市園部町小桜町",
+                "石高": 26700,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/園部藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.84689,
+                    32.69353
+                ]
+            },
+            "properties": {
+                "藩": "福江藩",
+                "藩庁所在地": "長崎県五島市池田町",
+                "石高": 12530,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/福江藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.0246,
+                    35.05239
+                ]
+            },
+            "properties": {
+                "藩": "三上藩",
+                "藩庁所在地": "滋賀県野洲市三上",
+                "石高": 12000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三上藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.50659,
+                    33.32639
+                ]
+            },
+            "properties": {
+                "藩": "久留米藩",
+                "藩庁所在地": "福岡県久留米市篠山町",
+                "石高": 210000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/久留米藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.27119,
+                    36.15252
+                ]
+            },
+            "properties": {
+                "藩": "丸岡藩",
+                "藩庁所在地": "福井県坂井市丸岡町霞町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/丸岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71056,
+                    36.41306
+                ]
+            },
+            "properties": {
+                "藩": "吹上藩",
+                "藩庁所在地": "栃木県栃木市吹上町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/吹上藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.3604,
+                    34.49203
+                ]
+            },
+            "properties": {
+                "藩": "備後福山藩",
+                "藩庁所在地": "広島県福山市丸之内一丁目",
+                "石高": 110000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/備後福山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.21602,
+                    37.13102
+                ]
+            },
+            "properties": {
+                "藩": "白河藩",
+                "藩庁所在地": "福島県白河市郭内",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/白河藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.89391,
+                    35.26316
+                ]
+            },
+            "properties": {
+                "藩": "佐貫藩",
+                "藩庁所在地": "千葉県富津市佐貫",
+                "石高": 16000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/佐貫藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21638,
+                    35.07494
+                ]
+            },
+            "properties": {
+                "藩": "篠山藩",
+                "藩庁所在地": "兵庫県篠山市北新町",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/篠山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.95761,
+                    35.75313
+                ]
+            },
+            "properties": {
+                "藩": "郡上藩",
+                "藩庁所在地": "岐阜県郡上市八幡町柳町",
+                "石高": 48000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/郡上藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.54124,
+                    36.24653
+                ]
+            },
+            "properties": {
+                "藩": "館林藩",
+                "藩庁所在地": "群馬県館林市城町",
+                "石高": 60000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/館林藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4928,
+                    37.44247
+                ]
+            },
+            "properties": {
+                "藩": "三春藩",
+                "藩庁所在地": "福島県田村郡三春町大町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三春藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.88945,
+                    37.05994
+                ]
+            },
+            "properties": {
+                "藩": "磐城平藩",
+                "藩庁所在地": "福島県いわき市平字旧城跡",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/磐城平藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.51013,
+                    32.1217
+                ]
+            },
+            "properties": {
+                "藩": "高鍋藩",
+                "藩庁所在地": "宮崎県児湯郡高鍋町大字南高鍋",
+                "石高": 27000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高鍋藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.24892,
+                    36.20534
+                ]
+            },
+            "properties": {
+                "藩": "岡部藩",
+                "藩庁所在地": "埼玉県深谷市岡部",
+                "石高": 20250,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/岡部藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44908,
+                    34.79129
+                ]
+            },
+            "properties": {
+                "藩": "麻田藩",
+                "藩庁所在地": "大阪府豊中市蛍池中町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/148",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/麻田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1239,
+                    39.72304
+                ]
+            },
+            "properties": {
+                "藩": "久保田藩",
+                "藩庁所在地": "秋田県秋田市千秋公園",
+                "石高": 205800,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/久保田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.82474,
+                    38.7281
+                ]
+            },
+            "properties": {
+                "藩": "庄内藩",
+                "藩庁所在地": "山形県鶴岡市馬場町",
+                "石高": 170000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/庄内藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.69099,
+                    34.83422
+                ]
+            },
+            "properties": {
+                "藩": "姫路藩",
+                "藩庁所在地": "兵庫県姫路市本町",
+                "石高": 150000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/姫路藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.74663,
+                    35.50337
+                ]
+            },
+            "properties": {
+                "藩": "小浜藩",
+                "藩庁所在地": "福井県小浜市城内",
+                "石高": 103558,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小浜藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.96017,
+                    38.86026
+                ]
+            },
+            "properties": {
+                "藩": "出羽松山藩",
+                "藩庁所在地": "山形県酒田市新屋敷",
+                "石高": 25000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/出羽松山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.18973,
+                    36.3249
+                ]
+            },
+            "properties": {
+                "藩": "伊勢崎藩",
+                "藩庁所在地": "群馬県伊勢崎市曲輪町",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/伊勢崎藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8291,
+                    35.11
+                ]
+            },
+            "properties": {
+                "藩": "安房勝山藩",
+                "藩庁所在地": "千葉県安房郡鋸南町勝山",
+                "石高": 12000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/安房勝山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.07968,
+                    35.67938
+                ]
+            },
+            "properties": {
+                "藩": "敦賀藩",
+                "藩庁所在地": "福井県敦賀市鞠山",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/敦賀藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.25702,
+                    37.1103
+                ]
+            },
+            "properties": {
+                "藩": "高田藩",
+                "藩庁所在地": "新潟県上越市本城町",
+                "石高": 150000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/高田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.19884,
+                    36.56311
+                ]
+            },
+            "properties": {
+                "藩": "松代藩",
+                "藩庁所在地": "長野県長野市松代町松代",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/松代藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.76347,
+                    32.20905
+                ]
+            },
+            "properties": {
+                "藩": "人吉藩",
+                "藩庁所在地": "熊本県人吉市麓町",
+                "石高": 22000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/人吉藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7999,
+                    34.28639
+                ]
+            },
+            "properties": {
+                "藩": "丸亀藩",
+                "藩庁所在地": "香川県丸亀市一番丁",
+                "石高": 51512,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/丸亀藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.82062,
+                    35.54137
+                ]
+            },
+            "properties": {
+                "藩": "豊岡藩",
+                "藩庁所在地": "兵庫県豊岡市京町",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/豊岡藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.05319,
+                    35.62963
+                ]
+            },
+            "properties": {
+                "藩": "峰山藩",
+                "藩庁所在地": "京都府京丹後市峰山町吉原",
+                "石高": 11144,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/峰山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75444,
+                    34.27568
+                ]
+            },
+            "properties": {
+                "藩": "多度津藩",
+                "藩庁所在地": "香川県仲多度郡多度津町家中",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/多度津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.45985,
+                    33.37159
+                ]
+            },
+            "properties": {
+                "藩": "日出藩",
+                "藩庁所在地": "大分県速見郡日出町",
+                "石高": 25000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/日出藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.80089,
+                    34.7279
+                ]
+            },
+            "properties": {
+                "藩": "足守藩",
+                "藩庁所在地": "岡山県岡山市北区足守",
+                "石高": 25000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/足守藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.32405,
+                    37.95028
+                ]
+            },
+            "properties": {
+                "藩": "新発田藩",
+                "藩庁所在地": "新潟県新発田市大手町",
+                "石高": 100000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/149",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/新発田藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8627,
+                    35.10357
+                ]
+            },
+            "properties": {
+                "藩": "沼津藩",
+                "藩庁所在地": "静岡県沼津市大手町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/沼津藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3287,
+                    38.25608
+                ]
+            },
+            "properties": {
+                "藩": "山形藩",
+                "藩庁所在地": "山形県山形市霞城町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/山形藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8737,
+                    36.29473
+                ]
+            },
+            "properties": {
+                "藩": "結城藩",
+                "藩庁所在地": "茨城県結城市結城",
+                "石高": 18000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/結城藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.03716,
+                    35.45971
+                ]
+            },
+            "properties": {
+                "藩": "鶴牧藩",
+                "藩庁所在地": "千葉県市原市椎津",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/鶴牧藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.69173,
+                    35.08699
+                ]
+            },
+            "properties": {
+                "藩": "美作勝山藩",
+                "藩庁所在地": "岡山県真庭市勝山",
+                "石高": 23000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/美作勝山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.27032,
+                    34.67523
+                ]
+            },
+            "properties": {
+                "藩": "田原藩",
+                "藩庁所在地": "愛知県田原市田原町巴江",
+                "石高": 12072,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/田原藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.42967,
+                    32.04858
+                ]
+            },
+            "properties": {
+                "藩": "佐土原藩",
+                "藩庁所在地": "宮崎県宮崎市佐土原町上田島",
+                "石高": 27070,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/佐土原藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.48483,
+                    35.99019
+                ]
+            },
+            "properties": {
+                "藩": "麻生藩",
+                "藩庁所在地": "茨城県行方市麻生",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/麻生藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.48105,
+                    35.00646
+                ]
+            },
+            "properties": {
+                "藩": "菰野藩",
+                "藩庁所在地": "三重県三重郡菰野町菰野",
+                "石高": 11000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/菰野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.933,
+                    34.84502
+                ]
+            },
+            "properties": {
+                "藩": "小野藩",
+                "藩庁所在地": "兵庫県小野市西本町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小野藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.11064,
+                    33.89582
+                ]
+            },
+            "properties": {
+                "藩": "小松藩",
+                "藩庁所在地": "愛媛県西条市小松町新屋敷",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/小松藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.99249,
+                    33.99147
+                ]
+            },
+            "properties": {
+                "藩": "長府藩",
+                "藩庁所在地": "山口県下関市長府宮崎町",
+                "石高": 50000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/長府藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.81442,
+                    34.05463
+                ]
+            },
+            "properties": {
+                "藩": "徳山藩",
+                "藩庁所在地": "山口県周南市徳山",
+                "石高": 40010,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/徳山藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.89243,
+                    32.95686
+                ]
+            },
+            "properties": {
+                "藩": "佐伯藩",
+                "藩庁所在地": "大分県佐伯市大手町",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/佐伯藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.02957,
+                    34.06361
+                ]
+            },
+            "properties": {
+                "藩": "清末藩",
+                "藩庁所在地": "山口県下関市清末",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/清末藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.38803,
+                    34.74786
+                ]
+            },
+            "properties": {
+                "藩": "赤穂藩",
+                "藩庁所在地": "兵庫県赤穂市上仮屋",
+                "石高": 20000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/赤穂藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4427,
+                    34.9798
+                ]
+            },
+            "properties": {
+                "藩": "三日月藩",
+                "藩庁所在地": "兵庫県佐用郡佐用町三日月",
+                "石高": 15000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/三日月藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.15024,
+                    35.56475
+                ]
+            },
+            "properties": {
+                "藩": "生実藩",
+                "藩庁所在地": "千葉県千葉市中央区生実町",
+                "石高": 10000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/150",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/生実藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.87279,
+                    35.46062
+                ]
+            },
+            "properties": {
+                "藩": "出石藩",
+                "藩庁所在地": "兵庫県豊岡市出石町内町",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/151",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/出石藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.47281,
+                    34.98388
+                ]
+            },
+            "properties": {
+                "藩": "新見藩",
+                "藩庁所在地": "岡山県新見市新見",
+                "石高": 18000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/151",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/新見藩"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.11111,
+                    36.03765
+                ]
+            },
+            "properties": {
+                "藩": "諏訪藩",
+                "藩庁所在地": "長野県諏訪市高島",
+                "石高": 30000,
+                "NDLデジコレ": "http://dl.ndl.go.jp/info:ndljp/pid/1177382/151",
+                "ウィキペディア": "https://ja.wikipedia.org/wiki/諏訪藩"
             }
         }
     ]
