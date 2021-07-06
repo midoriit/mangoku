@@ -21,9 +21,9 @@
               return (feat.properties['藩']).slice(0, 1);
             }(feature)),
             borderColor: (function(feat){
-              if(feat.properties['石高'] > 500000) {
+              if(feat.properties['石高'] >= 500000) {
                 return '#F00';
-              } else if(feat.properties['石高'] > 100000) {
+              } else if(feat.properties['石高'] >= 100000) {
                 return '#FC0';
               } else {
                 return '#0F0';
