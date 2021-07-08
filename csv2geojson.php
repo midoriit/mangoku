@@ -16,8 +16,6 @@
 
   $geojson = array(
      'type'      => 'FeatureCollection',
-     'crs'       => array('type' => 'name',
-                          'properties' => array('name' => 'urn:ogc:def:crs:OGC:1.3:CRS84') ),
      'features'  => array()
   );
 
