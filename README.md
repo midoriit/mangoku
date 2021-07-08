@@ -3,6 +3,8 @@
 
 GitHub Pagesによる表示は [こちら](https://midoriit.github.io/mangoku/)
 
+データはLinkData.orgの[萬石以上分限帳](http://linkdata.org/work/rdf1s5180i)でCC-BYライセンスで公開しています。 
+
 ## OSSライセンス
 
 * [Leaflet](https://leafletjs.com/) (2-Clause BSD)
